@@ -1,9 +1,9 @@
-## Hacker-Rank Activites
+# Hacker-Rank Activites
 
 ## 30Day Code Challenge
 
-#C-Language
+## C-Language
 
-#Problem Solving
+## Problem Solving
 
-#ProjectEuler+
+## ProjectEuler+
