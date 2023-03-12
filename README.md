@@ -1,7 +1,6 @@
-Hacker-Rank
-Problem Solve By Sohanuzzaman Soad
+## Hacker-Rank Activites
 
-#30Day Code Challenge
+## 30Day Code Challenge
 
 #C-Language
 
